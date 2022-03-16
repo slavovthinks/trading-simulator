@@ -1,0 +1,27 @@
+# local cache
+*.py[co]
+.cache/
+.pytest_cache/
+.coverage
+
+
+# virtual environments
+venv/
+.venv/
+
+# build output directories
+build/
+dist/
+docs/build/
+*.egg-info/
+wheelhouse/
+
+# IDEs config
+.idea/
+.vscode/
+
+# misc
+*.log
+
+# db
+*.db
